@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "563F1B7665C8493E8512DCED"
+               BlueprintIdentifier = "354E4F7186894E4EC7A63284"
                BuildableName = "libPods-ShipIO.a"
                BlueprintName = "Pods-ShipIO"
                ReferencedContainer = "container:Pods.xcodeproj">

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FB7BABABC3046FCB88CE935"
+               BlueprintIdentifier = "337281791BE23D72BCA4C8B2"
                BuildableName = "libPods-ShipIO-libPusher.a"
                BlueprintName = "Pods-ShipIO-libPusher"
                ReferencedContainer = "container:Pods.xcodeproj">

@@ -5,7 +5,5 @@ target "ShipIO" do
 	pod 'libPusher', '~> 1.5'
 end
 
-target "ShipIOTests" do
 
-end
 
